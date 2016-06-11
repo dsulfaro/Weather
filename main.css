@@ -1,0 +1,28 @@
+body{
+  background-image:   url("http://www.nasa.gov/sites/default/files/thumbnails/image/smap-weather.jpg");
+  background-position:center;
+  font-family: Oswald;
+}
+
+#main{
+  background-color: white;
+  width: 800px;
+  border-radius: 25px;
+  margin-top: 130px;
+  text-align: center;
+  padding-bottom: 20px;
+  opacity: 0;
+}
+
+#title{
+  font-size: 3.0em;
+}
+
+button{
+  width: 100px;
+}
+
+.btn:hover{
+  background-color: #b3b3b3;
+  outline: 0;
+}
