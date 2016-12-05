@@ -2,6 +2,7 @@ body{
   background-image:   url("http://www.nasa.gov/sites/default/files/thumbnails/image/smap-weather.jpg");
   background-position:center;
   font-family: Oswald;
+  background-size: cover;
 }
 
 #main{
